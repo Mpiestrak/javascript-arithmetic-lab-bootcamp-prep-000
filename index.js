@@ -1,12 +1,7 @@
 
-var a = '4'
-var b = '5'
-
+var number;
 function add(a, b) {
-  `${a} + ${b}`
+  number = a + b;
+  return number;
 }
 
-add(a, b)
-subtract(a, b)
-multiply(a, b)
-divide(a, b)
