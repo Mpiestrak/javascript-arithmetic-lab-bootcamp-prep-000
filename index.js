@@ -16,7 +16,7 @@ function divide(a, b){
   number = a / b;
   return number
 }
-function inc(a){
-  number = a += '1'
+function inc(n){
+  number = n += '1'
   return number
 }
