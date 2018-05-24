@@ -1,7 +1,9 @@
 
+var a = '4'
+var b = '5'
 
 function add(a, b) {
-  a + b 
+  `${a} + ${b}`
 }
 
 add(a, b)
