@@ -1,4 +1,5 @@
-add(a, b) = a + b;
+
+var add() = (a + b);
 
 add(a, b)
 subtract(a, b)
